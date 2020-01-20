@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">大学生题库</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="save">保存</string>
+    <string name="check">查看账单</string>
+    <string name="paylist_title">支出明细</string>
+    <string name="incomelist_title">收入明细</string>
+    <string name="notepad_main_title">备忘录</string>
+    <string name="notepad_main_new">新建</string>
+    <string name="calculator_main_title">计算器</string>
+    <string name="stock_main_name">自选股</string>
+    <string name="stock_detail_name_title">详情</string>
+    <string name="stock_search_name_title">添加自选股</string>
+    <string name="specification_main_name">说明</string>
+    <string name="knowledge_main_title">理财常识</string>
+    <string name="knowledge_detail_title">常识</string>
+    <string name="knowledge_book_0_1">消费者权益保护法</string>
+    <string name="knowledge_book_0_2">经济名次</string>
+    <string name="knowledge_book_1_1">金融基础</string>
+    <string name="knowledge_book_1_2">财经基础</string>
+    <string name="knowledge_book_2_1">税务基础</string>
+
+
+</resources>
